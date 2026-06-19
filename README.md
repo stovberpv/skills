@@ -1,5 +1,7 @@
 # Skills For Vibe Engineering
 
+[![skills.sh](https://skills.sh/b/stovberpv/skills)](https://skills.sh/stovberpv/skills)
+
 My philosophy: modern development as we knew it is already in the past. The real engineer's job today is to use all their knowledge to build a system of working with AI agents that lets them focus on problems, not on code. The agent already knows and can do a lot — you just need to arm it with the right skills, point it in the right direction, and it will handle all the routine programming work as effectively as the skill's author.
 
 ## Quickstart (30-second setup)
@@ -64,3 +66,9 @@ These skills are not instructions for the agent — they are instructions for th
 Vibe Engineering is not about turning your brain off. It's about directing it where it adds the most value: to problems, architecture, strategy. Everything else is done by the agent — armed with the right skills.
 
 Build systems. Don't write code.
+
+## Inspiration
+
+These skills were inspired by the work of [Matt Pocock](https://github.com/mattpocock/skills) and his approach to structuring agent skills. While my philosophy (Vibe Engineering) and the specific problems I solve differ, his original framework for thinking about skills as composable, testable units gave me the initial spark to build my own.
+
+Thank you, Matt, for showing what's possible.
